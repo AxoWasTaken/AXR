@@ -98,7 +98,7 @@ h2 {
 .ranking-image {
     display: block;
     margin: 20px auto;
-    max-width: 60%;   /* ← smaller as requested */
+    max-width: 60%;
     height: auto;
     border-radius: 6px;
 }
